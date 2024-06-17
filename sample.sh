@@ -1,2 +1,2 @@
 echo "Im from the file sample.sh "
-echo " todays date: $date"
+echo "today's date: $date"
